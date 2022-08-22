@@ -1,7 +1,7 @@
 [![New Relic Experimental header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Experimental.png)](https://opensource.newrelic.com/oss-category/#new-relic-experimental)
 
 
-![GitHub forks](https://img.shields.io/github/forks/newrelic-experimental/newrelic-java-ws-rs-errors??style=social)
+![GitHub forks](https://img.shields.io/github/forks/newrelic-experimental/newrelic-java-ws-rs-errors?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/newrelic-experimental/newrelic-java-ws-rs-errors?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/newrelic-experimental/newrelic-java-ws-rs-errors?style=social)
 
