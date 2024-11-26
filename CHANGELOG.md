@@ -1,3 +1,7 @@
+## Version: [v1.1.1](https://github.com/newrelic-experimental/newrelic-java-ws-rs-errors/releases/tag/v1.1.1) | Created: 2024-11-26
+
+
+
 ## Version: [v1.0.1](https://github.com/newrelic-experimental/newrelic-java-ws-rs-errors/releases/tag/v1.0.1) | Created: 2023-09-22
 ### Build Upgrades
 - Updated vendor title
